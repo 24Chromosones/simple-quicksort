@@ -1,6 +1,7 @@
 import random
 
-list_sort = [5, 7, 8, 3, 9, 4, 8, 3, 8, 2, 8, 9, 4, 7, 6, 1, 0, 4, 8]
+list_sort = [5, 7, 8, 3, 9, 4, 8, 3, 8, 2, 8, 9, 4, 7, 6, 1, 0, 4, 8] #you can add or remove any numbers in this list
+
 
 b = False
 
